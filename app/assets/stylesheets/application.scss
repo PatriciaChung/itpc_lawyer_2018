@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bulma";
+
+.navbar-brand .title {
+	color: gold;
+}
+
+// round images
+.image {
+	border-radius: 80%;
+	img {
+		border-radius: 50%;
+	}
+}
