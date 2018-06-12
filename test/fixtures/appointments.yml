@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  string: MyString
+  notes: MyText
+  schedule_for: 2018-06-12 11:28:47
+
+two:
+  title: MyString
+  string: MyString
+  notes: MyText
+  schedule_for: 2018-06-12 11:28:47
